@@ -1,0 +1,8 @@
+bin
+.project
+.settings
+.classpath
+.metadata
+.gradle
+build
+logs
